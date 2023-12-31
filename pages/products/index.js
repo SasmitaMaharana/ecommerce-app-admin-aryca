@@ -1,5 +1,5 @@
 import Link from "next/link"
-import {useState, useEffect} from "react";
+import React, { useEffect, useState } from "react";
 import axios from "axios";
 //import img1 from '@/public/product.png'
 
