@@ -9,7 +9,7 @@ const formatPrice = (price) => {
 };
 
 const pageSize = 10;
-export default function products(){
+export default function Products(){
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);

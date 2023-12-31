@@ -5,7 +5,7 @@ export default function NewProduct(){
             <div className="text-center sm:text-left">
               
 
-              <p className="mt-1.5 text-sm text-gray-500 max-w-lg">Let's create a new product!</p>
+              <p className="mt-1.5 text-sm text-gray-500 max-w-lg">Lets create a new product!</p>
             </div>
     </div>
 
